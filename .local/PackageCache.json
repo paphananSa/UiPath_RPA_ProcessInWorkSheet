@@ -2,6 +2,17 @@
   "Packages": [
     {
       "Package": {
+        "Id": "UiPath.Credentials.Activities",
+        "Version": "2.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\MSI\\.nuget\\packages\\credentialmanagement.standard\\1.0.4\\lib/netstandard2.0/CredentialManagement.dll",
+        "C:\\Users\\MSI\\.nuget\\packages\\uipath.credentials.activities\\2.0.0\\lib/net5.0-windows7.0/UiPath.Credentials.Activities.dll"
+      ],
+      "Path": "C:\\Users\\MSI\\.nuget\\packages\\uipath.credentials.activities\\2.0.0"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Excel.Activities",
         "Version": "2.17.0-preview"
       },
@@ -227,17 +238,6 @@
         "C:\\Users\\MSI\\.nuget\\packages\\uipath.vision\\3.6.0\\lib/net6.0-windows7.0/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\MSI\\.nuget\\packages\\uipath.uiautomation.activities\\22.10.4"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Credentials.Activities",
-        "Version": "2.0.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\MSI\\.nuget\\packages\\credentialmanagement.standard\\1.0.4\\lib/netstandard2.0/CredentialManagement.dll",
-        "C:\\Users\\MSI\\.nuget\\packages\\uipath.credentials.activities\\2.0.0\\lib/net5.0-windows7.0/UiPath.Credentials.Activities.dll"
-      ],
-      "Path": "C:\\Users\\MSI\\.nuget\\packages\\uipath.credentials.activities\\2.0.0"
     }
   ],
   "Conflicts": [],

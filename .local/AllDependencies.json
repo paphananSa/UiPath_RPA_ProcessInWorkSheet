@@ -20906,9 +20906,9 @@
     "restore": {
       "projectUniqueName": "Process_in_WorkSheet",
       "projectName": "Process_in_WorkSheet",
-      "projectPath": "C:\\Users\\MSI\\Documents\\UiPath\\Process_in_WorkSheet\\.local",
+      "projectPath": "C:\\Users\\MSI\\Documents\\GitHub\\UiPath_RPA_ProcessInWorkSheet\\.local",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\Documents\\UiPath\\Process_in_WorkSheet\\.local"
+      "outputPath": "C:\\Users\\MSI\\Documents\\GitHub\\UiPath_RPA_ProcessInWorkSheet\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
